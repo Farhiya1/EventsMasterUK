@@ -68,7 +68,11 @@ To access presentation
 
 ## [Project presentation](https://docs.google.com/presentation/d/1vAqNAkiIF6cIm_4CPSOFB-BZ4m0XtgwN/edit?usp=sharing&ouid=113958077381292450925&rtpof=true&sd=true)
 
-# Screenshot of deployed application
+Back-up Presentation Link
+
+## [Project presentation Back-up Link](https://www.canva.com/design/DAE3_apGzE8/kHrBIPCcxmFlTepXqIxoiQ/view?utm_content=DAE3_apGzE8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+# Screenshot of deployed application)
 
 1. Screenshot displaying Events Master UK application (Home Page)
 
