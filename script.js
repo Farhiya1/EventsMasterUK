@@ -14,6 +14,8 @@ let Today = moment().format("YYYY-MM-DD");
 function searchHandler(e) {
   // Once the search button is used, the video will be replaced with event and weather content
   video.remove();
+  // Clearing event data on page when a new location is searched
+  eventContainer.innerHTML = "";
   fetch(
     "https://app.ticketmaster.com/discovery/v2/events.json?apikey=" +
       ticketMasterAPIKey +
