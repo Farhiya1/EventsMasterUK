@@ -70,7 +70,7 @@ To access presentation
 
 Back-up Presentation Link
 
-## [Project presentation Back-up Link](https://www.canva.com/design/DAE3_apGzE8/kHrBIPCcxmFlTepXqIxoiQ/view?utm_content=DAE3_apGzE8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+## [Project presentation Back-up Link](https://www.canva.com/design/DAE3_apGzE8/kHrBIPCcxmFlTepXqIxoiQ/view?utm_content=DAE3_apGzE8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Screenshot of deployed application)
 
