@@ -1,8 +1,4 @@
-# EventsMasterUK
-
-EventsMasterUK-Project1
-
-# EventsMasterUK-Project1
+# Events Master UK
 
 Project 1: Interactive Front-End Application
 
