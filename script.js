@@ -63,5 +63,13 @@ function searchHandler(e) {
     .then((res) => res.json())
     .then((data) => {
       // console.log(data)
+      // Storing weather data into an object
+      let weatherObject = {};
+      weatherObject.temp = data.main.temp;
+      weatherObject.name = data.name;
+      weatherObject.weather = data.weather[0].main;
+      weatherObject.weatherDescription = data.weather[0].description;
+      weatherObject.weatherIcon = data.weather[0].icon;
+
 // Search button event listener to run function searchHandler
 button.addEventListener("click", searchHandler);
