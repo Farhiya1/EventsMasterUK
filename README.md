@@ -62,15 +62,15 @@ To access this project the following links are provided:
 
 To access Github Repository
 
-1.
+1. https://github.com/Farhiya1/EventsMasterUK
 
 To access Application deployed at live URL
 
-2.
+2. https://farhiya1.github.io/EventsMasterUK/
 
 To access presentation
 
-## [Project presentation]()
+## [Project presentation](https://docs.google.com/presentation/d/1vAqNAkiIF6cIm_4CPSOFB-BZ4m0XtgwN/edit?usp=sharing&ouid=113958077381292450925&rtpof=true&sd=true)
 
 Screenshot changes made can be found in images
 Screenshot of deployed application
@@ -110,3 +110,8 @@ References
 8. https://bulma.io/
 9. https://api.jquery.com/
 10. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+Collaborations
+
+1. [Najma Tahar](https://github.com/nt14/EventsMaster)
+2. [Samira Hirsi](https://github.com/samira0101/Event-Masters-UK)
