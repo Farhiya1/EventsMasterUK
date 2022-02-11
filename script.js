@@ -89,5 +89,16 @@ function searchHandler(e) {
   </div>
   </div>`;
     });
+  // Retreive array from local storage
+  array.push(locationInputEl.value);
+  // save item back into local storage
+  historyArray.innerHTML = "";
+  array.forEach((place) => {
+    historyArray.innerHTML += `<li><button>${place}</button></li>`;
+  });
+  localStorage.setItem("array", JSON.stringify(array));
+  var retrievedHistory = localStorage.getItem("array");
+}
+
 // Search button event listener to run function searchHandler
 button.addEventListener("click", searchHandler);
