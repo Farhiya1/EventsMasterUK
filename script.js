@@ -25,5 +25,12 @@ function searchHandler(e) {
     .then((res) => res.json())
     .then((data) => {
       console.log(data);
+  // Fetching weather data
+  fetch(
+    `https://api.openweathermap.org/data/2.5/weather?q=${locationInputEl.value},gb&appid=${openWeatherAPIKey}&units=metric`
+  )
+    .then((res) => res.json())
+    .then((data) => {
+      // console.log(data)
 // Search button event listener to run function searchHandler
 button.addEventListener("click", searchHandler);
