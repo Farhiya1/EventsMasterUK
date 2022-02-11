@@ -56,6 +56,9 @@ function searchHandler(e) {
     </div>`;
       });
     });
+  // Clearing weather data when new location is searched
+  weatherContainer.innerHTML = "";
+
   // Fetching weather data
   fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=${locationInputEl.value},gb&appid=${openWeatherAPIKey}&units=metric`
