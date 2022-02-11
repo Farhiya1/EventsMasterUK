@@ -4,15 +4,15 @@ Project 1: Interactive Front-End Application
 
 Building an interactive front-end application that will run in the browser and feature dynamically updated HTML and CSS and third-partys API with a group of developers.
 
-Why did we build this project?
+# Why did we build this project?
 
 The main purpose for why we built this project is so that we can learn how to use two third party APIs, access their data and functionality by making requests with specific parameters to a URL. The data we retreived and found relevant we used to create . This project has also allowed us to enhance our skills in javascript that we have been working on the past few weeks. Examples include: variables, functions, fetch. We were also able to use jquery as a tool to simplify our code and do the heavy lifting by making it easier to write javascript.
 
-What does this project solve?
+# What does this project solve?
 
 This projects solves our ability in creating an interactive application with data retreived from two third party open APIs on the browser with the skills we have learned so far. It also allows for the user to search events for a city within the UK restricted by location. The content the user will receive are for the events for that day varying from theatre, concerts and bands. The user will also receive the current forecast for that location.
 
-Criteria set to achieve this?
+# Criteria set to achieve this?
 
 ```
 I am searching for an event by city
@@ -30,7 +30,7 @@ THEN the previous search is saved and displayed on the page.
 
 ```
 
-So far we have achieved?
+# So far we have achieved?
 
 1. Create the layout for the content on the page to be displayed using the CSS framework Bulma and html. We have also used javascript to dynamically append events and weather content on to the page, using cards. One for the current weather data and one for the location specified and two for the events.
 
@@ -44,7 +44,7 @@ So far we have achieved?
 
 6. Saved users input and data retreived into local storage.
 
-What we intend to add in the near future?
+# What we intend to add in the near future?
 
 1. We would like our search history to be interactive as once the user tries to click previous searches the events won’t display.
 
@@ -54,7 +54,7 @@ What we intend to add in the near future?
 
 4. User interface can be more polished using appropriate styling, such as smaller cards and images.
 
-To access this project the following links are provided:
+# To access this project the following links are provided:
 
 To access Github Repository
 
@@ -68,8 +68,7 @@ To access presentation
 
 ## [Project presentation](https://docs.google.com/presentation/d/1vAqNAkiIF6cIm_4CPSOFB-BZ4m0XtgwN/edit?usp=sharing&ouid=113958077381292450925&rtpof=true&sd=true)
 
-Screenshot changes made can be found in images
-Screenshot of deployed application
+# Screenshot of deployed application
 
 1. Screenshot displaying Events Master UK application (Home Page)
 
@@ -93,7 +92,7 @@ Birmingham
 5. Screenshot displaying of page refreshed
    ![Screenshot of completed application](./images/Shreenshot6-RefreshedPageLS.png).
 
-References
+# References
 
 1. https://openweathermap.org/api/one-call-api
 2. https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
@@ -107,7 +106,7 @@ References
 9. https://api.jquery.com/
 10. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
-Collaborations
+# Collaborations
 
 1. [Najma Tahar](https://github.com/nt14/EventsMaster)
 2. [Samira Hirsi](https://github.com/samira0101/Event-Masters-UK)
